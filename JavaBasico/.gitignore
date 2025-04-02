@@ -2,12 +2,6 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-*.idea
-*.idea/
-.idea
-.idea/
-/.idea
-/.idea/
 
 ### Eclipse ###
 .apt_generated
@@ -33,4 +27,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
